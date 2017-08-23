@@ -4,7 +4,7 @@
   "description": "UI to set up an ESP8266 loaded with an Homie firmware",
   "scripts": {
     "start": "gulp dev",
-    "build": "gulp dist"
+    "build": "gulp dist && mv ui_bundle.gz ../data/homie/ui_bundle.gz"
   },
   "author": {
     "name": "Marvin Roger",

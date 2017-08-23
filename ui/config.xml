@@ -7,7 +7,7 @@ version = "2.0.0" >
 
   <name>Ingosi setup</name>
 
-  <description>Configuration de votre module Ingosi</description>
+  <description>Configuration de votre module Ingosi pour Umtapo</description>
 
   <preference name="phonegap-version" value="cli-6.3.0" />
 
